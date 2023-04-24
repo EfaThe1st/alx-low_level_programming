@@ -1,7 +1,10 @@
 #include <stdio.h>
 /**
- * main - main entry point
- * return: always 0 (sucess)
+ * main - Entry point
+ *
+ * Description: 'the program's description'
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
