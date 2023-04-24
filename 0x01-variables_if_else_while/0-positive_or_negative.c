@@ -24,3 +24,5 @@ int main(void)
 	{
 		printf("%d id negative\n", n);
 	}
+	return (0);
+}
